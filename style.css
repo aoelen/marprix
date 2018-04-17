@@ -1,0 +1,84 @@
+
+.answer_list {
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	height: 40px;
+	background-color: rgba(131, 206, 111, 1);
+	top: 0px;
+	font-size: 20px;
+}
+
+.hidden {
+	display: none;
+}
+
+.titlerow > th {
+	padding-top: 20px!important;
+}
+
+.logo {
+	max-width: 15%;
+}
+
+.save {
+	margin-top: 10px;
+	padding: 10px 20px 10px 20px;
+	background-color: white;
+}
+
+.icon {
+	max-width: 40px;
+}
+
+.tably {
+	font-size: 20px;
+	width: 80%;
+	padding-top: 20px;
+	padding-bottom: 20px!important;
+	display: block;
+	margin-bottom: 50px;
+	background-color: #649c35bd;
+	border: 0px solid white;
+}
+
+
+tr {
+	border-bottom: 2px solid grey;
+}
+
+.headerrow > th{
+	padding-bottom: 20px!important;
+	border-bottom: 1px solid black;
+}
+
+th, td {
+	border: 0px solid white;
+}
+
+td > img {
+	padding-right: 20px;
+}
+
+td {
+	width: 15%;
+	text-align: center;
+}
+
+button {
+	font-size: 20px;
+}
+
+.id {
+	border: 0px solid white;
+	font-size: 20px;
+}
+
+input {
+	font-size: 20px;
+	text-align: center;
+}
+
+.lastrow {
+		padding-bottom: 20px;
+}
